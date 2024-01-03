@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Software Engineer from India 🇮🇳. I've been practising in this field since July 2015 - coincidentally since JavaScript got wings (ES6). I love working in small teams building great products.
+I'm a Software Engineer from India 🇮🇳. I've been practicing in this field since July 2015 - coincidentally since JavaScript got wings (ES6). I love working in small teams building great products.
 
 #### 🏰 Love to build things on
 - JavaScript 
